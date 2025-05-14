@@ -1,7 +1,7 @@
 # ZeroCleaner
 
 <div align="center">
-  <img src="https://i.imgur.com/D3rlQcc.jpg" alt="ZeroCleaner Cyberpunk Banner" width="800"/>
+  <img src="https://i.postimg.cc/fWYR0Pjc/Zero-Cleaner.jpg" alt="ZeroCleaner Cyberpunk Banner" width="800"/>
   
   <br>
   <img src="https://img.shields.io/badge/-ZeroCleaner-FF5733?style=for-the-badge&logoColor=black" alt="ZeroCleaner"/>
