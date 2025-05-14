@@ -19,7 +19,7 @@
 
 ## ✨ Features
 
-<img align="right" src="https://i.imgur.com/cOD0hbC.gif" width="400"/>
+<img align="right" src="https://i.postimg.cc/fWYR0Pjc/Zero-Cleaner.jpg" width="400"/>
 
 - 🔥 **Orphaned Package Removal** - Eliminate unused packages
 - 🧹 **Cache Cleaning** - Clear pacman and AUR cache files
@@ -52,14 +52,14 @@ sudo ./zero-cleaner-script.sh
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://i.imgur.com/K8h7WMt.png" alt="ZeroCleaner Screenshot" width="80%"/>
+  <img src="https://i.postimg.cc/fWYR0Pjc/Zero-Cleaner.jpg" alt="ZeroCleaner Screenshot" width="80%"/>
 </div>
 
 ## ⚙️ Operations
 
 ZeroCleaner performs the following operations:
 
-<img align="right" src="https://i.imgur.com/4TG7b36.gif" width="300"/>
+<img align="right" src="https://i.postimg.cc/fWYR0Pjc/Zero-Cleaner.jpg" width="300"/>
 
 1. **Package Database Update** - Refresh pacman database
 2. **Orphaned Package Removal** - Remove unused packages
